@@ -3,10 +3,11 @@
 Imersão destinada a criação de projetos em `HTML`, `CSS` e `JavaScript`.
  
  
-<!-- ## Index -->
-<!-- - [Projeto: Calculadora de Média]() -->
- 
-***
+## Index
+- [Projeto: Calculadora de Média](#projeto-calculadora-de-média)
+- [Projeto: Conversor de Moedas](#projeto-conversor-de-moedas)
+
+
  
 ## Ferramentas utilizadas
  
@@ -14,8 +15,11 @@ Imersão destinada a criação de projetos em `HTML`, `CSS` e `JavaScript`.
     - HTML
     - CSS
     - JavaScript
+- VsCode
+- GitHub
+- Git
  
-***
+
  
 ## Projeto: [Calculadora de Média](https://codepen.io/eajunior85/pen/OJOevpa)
  
@@ -27,7 +31,7 @@ funcionamento da sintaxe e uso de variáveis, operações, cálculos simples e s
 <!-- ![Animation.gif](https://github.com/eliasalbuquerque/imersoes-dev/blob/main/alura_imersao-dev/images/Animation.gif "CodePen") -->
 <img src="https://github.com/eliasalbuquerque/imersoes-dev/blob/main/alura_imersao-dev/images/Animation.gif" width="600">
  
-***
+
  
 ## Projeto: [Conversor de Moedas](https://codepen.io/eajunior85/pen/MWOMzRj)
  
