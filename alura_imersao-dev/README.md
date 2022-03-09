@@ -2,7 +2,10 @@
 
 Imersão destinada a criação de projetos em `HTML` e `CSS`.
 
+
 <!-- ## Index -->
+<!-- - [Projeto: Calculadora de Média]() -->
+
 
 ## Ferramentas utilizadas
 
@@ -17,7 +20,7 @@ Imersão destinada a criação de projetos em `HTML` e `CSS`.
 Aula 01
 
 Projeto simples com ênfase em `JavaScript` para demonstrar o
-funcionamento da sintaxe e uso de variáveis, operações e cálculos simples e saída no _console_.
+funcionamento da sintaxe e uso de variáveis, operações, cálculos simples e saída no _console_.
 
 ![Animation.gif](https://github.com/eliasalbuquerque/imersoes-dev/blob/main/alura_imersao-dev/images/Animation.gif "CodePen")
 
