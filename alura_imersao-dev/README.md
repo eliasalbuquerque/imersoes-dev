@@ -47,3 +47,11 @@ da conversão do Dólar para o BitCoin sendo implementado às seguintes mudança
 - Inserção de referência do uso de imagem
 
 <img src="https://github.com/eliasalbuquerque/imersoes-dev/blob/main/alura_imersao-dev/images/Animation02.gif">
+
+
+
+## Projeto: [Mentalista]()
+
+Aula 03
+
+Projeto que aborda condições  
